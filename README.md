@@ -1,4 +1,4 @@
-# <center> ¡Welcome to my Profile! </center>
+# <h1 align="center"> ¡Welcome to my Profile! </h1>
 - - - 
 Welcome to my Github repository site. I'm a self-taught software developer and I periodically update this site. If you want to know more about me and my work visit my <a href="about:blank">web portfolio here.</a> 🌎. You can see my work in these uploaded repositories.
 

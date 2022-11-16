@@ -1,6 +1,7 @@
-# ¡Welcome to my Profile! 
+# <center> ¡Welcome to my Profile! </center>
 - - - 
-Welcome to my Github repository site. I am a self-taught software developer and I periodically update this site. If you want to know more about me and my work visit my web portfolio. You can see my work in these uploaded repositories. Here you have my social network links to contact me.
+Welcome to my Github repository site. I'm a self-taught software developer and I periodically update this site. If you want to know more about me and my work visit my <a href="about:blank">web portfolio here.</a> 🌎. You can see my work in these uploaded repositories.
+
 - - -
 ## Languages
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" width="48" height="48" alt="HTML"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="48" height="48" alt="CSS"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="JS"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="React"/> <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="48" height="48" alt="Java"/>

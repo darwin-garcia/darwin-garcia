@@ -1,6 +1,16 @@
-# <h1 align="center"> ¡Welcome to my Profile! </h1>
+# <h1 align="center">🙋‍♂️ ¡Hello! I'm Darwin Garcia </h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="36" height="36" alt="Linkedin"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" width="36" height="36" alt="Instagram"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" width="36" height="36" alt="Facebook"/>
+
+<img src="https://cdnlogo.com/logo/twitter-icon_498.html][img]https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" width="36" height="36" alt="Twitter"/>
 - - - 
 Welcome to my Github repository site. I'm a self-taught software developer and I periodically update this site. If you want to know more about me and my work visit my <a href="about:blank">web portfolio here.</a>. You can see my work in these uploaded repositories.
+
+
 
 - - -
 ### 🔨 Build in Backend

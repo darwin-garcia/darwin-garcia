@@ -6,7 +6,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" width="36" height="36" alt="Facebook"/>
 
-<img src="https://cdnlogo.com/logo/twitter-icon_498.html][img]https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" width="36" height="36" alt="Twitter"/>
+<img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" width="36" height="36" alt="Twitter"/>
 - - - 
 Welcome to my Github repository site. I'm a self-taught software developer and I periodically update this site. If you want to know more about me and my work visit my <a href="about:blank">web portfolio here.</a>. You can see my work in these uploaded repositories.
 

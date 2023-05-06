@@ -16,7 +16,7 @@ I'm a self-taught software developer from Colombia
 - 💼 Actually i'm a freelancer and contributing to frontend and backend for building web apps.
 - 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here.</a>. You can see my work in these uploaded .repositories.
 - ⭐ I enjoy Photography, Reading and play bass in free time
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- ✔ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/darwingarc%C3%ADa/)
 
 
 - - -

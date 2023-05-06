@@ -14,7 +14,7 @@
 </div>
 
 <h2> 👨‍💻 About Me: </h2>
-<p align="center">I'm a self-taught software developer from Colombia</p>
+<p>I'm a self-taught software developer from Colombia</p>
 <ul>
 <li> 💼 Actually i'm a freelancer and contributing to frontend and backend for building web apps.</li>
 <li> 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here.</a>. You can see my work in these uploaded .repositories.</li>

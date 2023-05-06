@@ -12,8 +12,11 @@
 </div>
 </div>
 - - -
+ <h2> 👨‍💻 About Me: </h2>
+I'm a self-taught software developer and I periodically update this site. 
 
-Welcome to my Github repository site. I'm a self-taught software developer and I periodically update this site. If you want to know more about me and my work visit my 🌐<a href="https://www.darwin-garcia.co">web portfolio here.</a>. You can see my work in these uploaded repositories.
+- 🌐 <a href="https://www.darwin-garcia.co">Web Portfolio Here.</a>. You can see my work in these uploaded repositories.
+
 
 
 - - -

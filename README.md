@@ -14,5 +14,9 @@ Welcome to my Github repository site. I'm a self-taught software developer and I
 ### 📎 I Use this tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="GIT"/> <img src="https://cdn.cdnlogo.com/logos/f/43/figma.svg" width="36" height="36" alt="Figma"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="36" height="36" alt="Adobe Illustrator"/>
 
+### 💻 OS in which i develop and deploy
+
+<img src="https://www.svgrepo.com/show/349296/arch-linux.svg" width="36" height="36" alt="Arch"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="36" height="36" alt="Apple"/>
 - - -
 👨‍💻 ©MMXXIII. Darwin Garcia. 🇨🇴

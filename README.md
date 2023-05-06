@@ -1,15 +1,19 @@
 # <h1 align="center">🙋‍♂️ ¡Hello! I'm Darwin Garcia </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="badges">
+  
+  <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    
 </div>
-- - - 
-Welcome to my Github repository site. I'm a self-taught software developer and I periodically update this site. If you want to know more about me and my work visit my <a href="https://www.darwin-garcia.co">web portfolio here.</a>. You can see my work in these uploaded repositories.
+</div>
+- - -
+
+Welcome to my Github repository site. I'm a self-taught software developer and I periodically update this site. If you want to know more about me and my work visit my 🌐<a href="https://www.darwin-garcia.co">web portfolio here.</a>. You can see my work in these uploaded repositories.
 
 
 - - -

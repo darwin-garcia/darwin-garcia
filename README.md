@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
+  <a href="https://www.linkedin.com/in/darwingarc%C3%ADa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>  
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -16,7 +16,7 @@ I'm a self-taught software developer from Colombia
 - 💼 Actually i'm a freelancer and contributing to frontend and backend for building web apps.
 - 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here.</a>. You can see my work in these uploaded .repositories.
 - ⭐ I enjoy Photography, Reading and play bass in free time
-- ✔ How to reach me: <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=flat-square&logo=linkedin&logoColor=white&labelColor=0050F0&color=5C5B5B'/></a>
+- ✔ How to reach me: <a href='https://www.linkedin.com/in/darwingarc%C3%ADa/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=flat-square&logo=linkedin&logoColor=white&labelColor=0050F0&color=5C5B5B'/></a>
 
 
 - - -

@@ -13,11 +13,12 @@
 </div>
 <h2> 👨‍💻 About Me: </h2>
 I'm a self-taught software developer from Colombia
-- 💼 Actually i'm a freelancer and contributing to frontend and backend for building web apps.
-- 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here.</a>. You can see my work in these uploaded .repositories.
-- ⭐ I enjoy Photography, Reading and play bass in free time
-- ✔ How to reach me: <a href='https://www.linkedin.com/in/darwingarc%C3%ADa/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=flat-square&logo=linkedin&logoColor=white&labelColor=0050F0&color=5C5B5B'/></a>
-
+<ul>
+<li> 💼 Actually i'm a freelancer and contributing to frontend and backend for building web apps.</li>
+<li> 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here.</a>. You can see my work in these uploaded .repositories.</li>
+<li> ⭐ I enjoy Photography, Reading and play bass in free time</li>
+<li> ✔ How to reach me: <a href='https://www.linkedin.com/in/darwingarc%C3%ADa/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=flat-square&logo=linkedin&logoColor=white&labelColor=0050F0&color=5C5B5B'/></a></li>
+</ul>
 
 - - -
 ### 🧰 Build in Backend

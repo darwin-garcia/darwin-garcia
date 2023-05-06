@@ -30,7 +30,7 @@
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" width="36" height="36" alt="HTML"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="36" height="36" alt="CSS"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="36" height="36" alt="JS"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="36" height="36" alt="React"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="36" height="36" alt="Next.js"/>
 
 ### 🧮 Manage databases
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL"/><img src="https://cdn.cdnlogo.com/logos/m/78/mysql.svg" width="36" height="36" alt="MySQL"/><img src="https://commons.wikimedia.org/wiki/File:Antu_mongodb.svg" width="36" height="36" alt="Arch"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL"/><img src="https://cdn.cdnlogo.com/logos/m/78/mysql.svg" width="36" height="36" alt="MySQL"/><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="36" height="36" alt="MongoDB"/>
 
 ### 📎 I Use this tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="GIT"/> <img src="https://cdn.cdnlogo.com/logos/f/43/figma.svg" width="36" height="36" alt="Figma"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="108" height="36" alt="Adobe Illustrator"/>

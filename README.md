@@ -11,7 +11,7 @@
     
 </div>
 </div>
-<h2 align="center">Welcome to my Github repository site.</h2>
+<p align="center">Welcome to my Github repository site.</p>
 
 <h2> 👨‍💻 About Me: </h2>
 I'm a self-taught software developer from Colombia

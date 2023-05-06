@@ -11,16 +11,16 @@
     
 </div>
 </div>
+<h2> 👨‍💻 About Me: </h2>
+I'm a self-taught software developer from Colombia
+- 💼 Actually i'm a freelancer and contributing to frontend and backend for building web apps.
+- 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here.</a>. You can see my work in these uploaded .repositories.
+- ⭐ I enjoy Photography, Reading and play bass in free time
+- ✔ How to reach me?: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+
 - - -
- <h2> 👨‍💻 About Me: </h2>
-I'm a self-taught software developer and I periodically update this site. 
-
-- 🌐 <a href="https://www.darwin-garcia.co">Web Portfolio Here.</a>. You can see my work in these uploaded repositories.
-
-
-
-- - -
-### 🔨 Build in Backend
+### 🧰 Build in Backend
 <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="36" height="36" alt="Java"/><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python"/><img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" width="36" height="36" alt="C#"/><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" class="center" width="48" height="48" alt="PHP"/><img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" width="36" height="36" alt="Node.js"/><img src="https://cdn.cdnlogo.com/logos/a/92/android.svg" width="36" height="36" alt="Android"/> 
 
 ### ⚙ Build in Frontend

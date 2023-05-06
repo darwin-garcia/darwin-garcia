@@ -12,7 +12,7 @@ Welcome to my Github repository site. I'm a self-taught software developer and I
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL"/><img src="https://cdn.cdnlogo.com/logos/m/78/mysql.svg" width="36" height="36" alt="MySQL"/>
 
 ### 📎 I Use this tools
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="GIT"/> <img src="https://cdn.cdnlogo.com/logos/f/43/figma.svg" width="36" height="36" alt="Figma"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="36" height="36" alt="Adobe Illustrator"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="GIT"/> <img src="https://cdn.cdnlogo.com/logos/f/43/figma.svg" width="36" height="36" alt="Figma"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="108" height="36" alt="Adobe Illustrator"/>
 
 ### 💻 OS in which i develop and deploy
 <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" width="138" height="36" alt="Arch"/>

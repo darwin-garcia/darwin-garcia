@@ -13,7 +13,7 @@
 </div>
 </div>
 
-<h2> 👨‍💻 About Me: </h2>
+<h2 align="center"> 👨‍💻 About Me: </h2>
 <p>I'm a self-taught software developer from Colombia</p>
 <ul>
 <li> 💼 Actually i'm a freelancer and contributing to frontend and backend for building web apps.</li>

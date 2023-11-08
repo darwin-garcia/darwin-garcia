@@ -38,4 +38,4 @@
 ### 💻 OS in which i develop and deploy
 <img src="https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg" width="108" height="36" alt="Arch"/><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" width="30" height="36" alt="Apple"/>
 - - -
-👨‍💻 ©MMXXIII. Darwin Garcia. 🇨🇴
+👨‍💻 ©MMXXIV. Darwin Garcia. 🇨🇴

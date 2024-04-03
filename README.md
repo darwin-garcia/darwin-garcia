@@ -1,7 +1,7 @@
 # <h1 align="center">🙋‍♂️ ¡Hello! I'm Darwin Garcia </h1>
 <!-- First Section Pane -->
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY1N2d5c3VsMzR1bXR6NXRod2J6ZTU5eDZqbzcwMTV5YWliMGxqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XB76CaWPggiNW/giphy.gif" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5408/5408783.png" />
   <h3 align="center">¡Welcome to my Github repository site!</h3>
   <p align="center">👇 Follow me in my Social Links below and this site: <a href="https://linktr.ee/idarwingarcia"> linktr.ee</a></p>
   <!-- Social Media Badge Section -->

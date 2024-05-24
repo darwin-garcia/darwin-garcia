@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/5408/5408783.png" width="150" />
   <h3 align="center">¡Welcome to my Github repository site!</h3>
-  <p align="center">👇 Follow me in my Social Links below and this site: <a href="https://linktr.ee/idarwingarcia"> linktr.ee</a></p>
+  <p align="center">👇 Follow me in my Social Links below and this site: 🌐 <a href="https://linktr.ee/idarwingarcia"> linktr.ee</a></p>
   <!-- Social Media Badge Section -->
   <div id="badges">
   <a href="https://www.facebook.com/imdarwingarcia"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
@@ -14,7 +14,6 @@
 </div>
 <!-- About Me Section -->
 <h2 align="center"> 👨‍💻 About Me: </h2>
-<p>I'm a self-taught software developer from Colombia</p>
 <ul>
 <li> 💼 Data Scientist Self employee.</li>
 <li> 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here.</a>. You can see my work in these uploaded .repositories.</li>

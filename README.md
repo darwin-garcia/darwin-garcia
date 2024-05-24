@@ -17,7 +17,7 @@
 <ul>
 <li> 💼 Data Scientist Self employee.</li>
 <li> 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here.</a>. You can see my work in these uploaded .repositories.</li>
-<li> ⭐ I enjoy Photography, Reading and play bass in free time</li>
+<li> ⭐ ✈ 📖 📸 I enjoy Photography, Reading and play bass in free time</li>
 <li> ✔ How to reach me: <a href="https://www.linkedin.com/in/darwingarc%C3%ADa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
 </ul>
 

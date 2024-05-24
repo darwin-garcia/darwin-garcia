@@ -16,13 +16,13 @@
 <h2 align="center"> 👨‍💻 About Me: </h2>
 <ul>
 <li> 💼 Data Scientist Jr. and Engineering Student</li>
-<li> 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here.</a>. You can see my work in these uploaded repositories.</li>
-<li> ⭐ ✈ 📖 📸 I enjoy Photography, Reading and play bass in free time</li>
+<li> 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here</a>. You can see my projects in these uploaded repositories.</li>
+<li> 📸 I enjoy Photography, 📖 Reading and ✈ traveling </li>
 <li> ✔ How to reach me: <a href="https://www.linkedin.com/in/darwingarc%C3%ADa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
 </ul>
 
 - - -
-<h4>Library & Tools</h4>
+<h4>🛠️ Library & Tools</h4>
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python"/>

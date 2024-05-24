@@ -23,15 +23,5 @@
 </ul>
 
 - - -
-### 🧰 Build in Backend Developer
-<img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" width="36" height="36" alt="Java"/><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python"/>
-
-### ⚙ Build in Frontend Developer
-
-### 🧮 Manage databases
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL"/><img src="https://cdn.cdnlogo.com/logos/m/78/mysql.svg" width="36" height="36" alt="MySQL"/><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="36" height="36" alt="MongoDB"/>
-
-### 📎 I Use this tools for Machine Learning 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="GIT"/> 
 
 👨‍💻 ©MMXXIV. Darwin Garcia. 🇨🇴

@@ -27,7 +27,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="GIT"/>
 
-   <img src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg#/media/File:Pandas_mark.svg" width="36" height="36" alt="Pandas"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="36" height="36" alt="Pandas"/>
+   <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" width="36" height="36" alt="Numpy"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="36" height="36" alt="PyTorch"/>
 </p>
 
 👨‍💻 ©MMXXIV. Darwin Garcia. 🇨🇴

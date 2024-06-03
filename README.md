@@ -20,7 +20,9 @@
 <li> 📸 I enjoy Photography, 📖 Reading and ✈ traveling </li>
 <li> ✔ How to reach me: <a href="https://www.linkedin.com/in/darwingarc%C3%ADa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
 </ul>
+
 - - -
+
 <h4>🛠️ Library & Tools</h4>
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL"/>

@@ -30,6 +30,8 @@
    <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="36" height="36" alt="Pandas"/>
    <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" width="36" height="36" alt="Numpy"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="36" height="36" alt="PyTorch"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="36" height="36" alt="Tensorflow"/>
+   
 </p>
 
 👨‍💻 ©MMXXIV. Darwin Garcia. 🇨🇴

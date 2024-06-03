@@ -26,6 +26,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="GIT"/>
+
+   <img src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg#/media/File:Pandas_mark.svg" width="36" height="36" alt="Pandas"/>
 </p>
 
 👨‍💻 ©MMXXIV. Darwin Garcia. 🇨🇴

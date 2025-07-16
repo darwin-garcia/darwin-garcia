@@ -1,7 +1,8 @@
 # <h1 align="center">🙋‍♂️ ¡Hello! I'm Darwin Garcia </h1>
 <!-- First Section Pane -->
 <div id="header" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5408/5408783.png" width="150" />
+  ![ThinkPad.](https://raw.githubusercontent.com/darwin-garcia/Arch-Linux-Hyprland/refs/heads/main/Data%20Science%20Package%20in%20Arch%20Linux/20250715_103516.jpg)
+  <!--<img src="https://cdn-icons-png.flaticon.com/512/5408/5408783.png" width="150"  -->
   <h3 align="center">¡Welcome to my Github repository site!</h3>
   <p align="center">👇 Follow me in my Social Links below and this site: 🌐 <a href="https://linktr.ee/idarwingarcia"> linktr.ee</a></p>
   <!-- Social Media Badge Section -->

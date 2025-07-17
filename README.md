@@ -16,7 +16,7 @@
 <!-- About Me Section -->
 <h2 align="center"> 👨‍💻 About Me: </h2>
 <ul>
-<li> 💼 Data Scientist Jr. and Engineering Student</li>
+<li> 💼 Data Scientist Trainee</li>
 <li> 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here</a>. You can see my projects in these uploaded repositories.</li>
 <li> 📸 I enjoy Photography, 📖 Reading and ✈ traveling </li>
 <li> ✔ How to reach me: <a href="https://www.linkedin.com/in/darwingarc%C3%ADa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>

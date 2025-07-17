@@ -32,6 +32,7 @@
    <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="54" height="54" alt="Pandas"/>
    <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" width="54" height="54" alt="Numpy"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="54" height="54" alt="Matplotlib"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/plot_ly_logo_icon_168902.png" width="54" height="54" alt="Plotly"/>
   <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="54" height="54" alt="Seaborn"/>
   <img src="https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66d86935aaeb8c0b9fa1bde7_scikit-learn.png" width="54" height="54" alt="Scikit-learn"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1200px-SCIPY_2.svg.png" width="54" height="54" alt="SciPy"/>

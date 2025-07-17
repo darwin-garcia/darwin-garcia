@@ -26,14 +26,14 @@
 
 <h4>🛠️ Library & Tools</h4>
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="PostgreSQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="GIT"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="54" height="54" alt="PostgreSQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="54" height="54" alt="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="54" height="54" alt="GIT"/>
 
-   <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="36" height="36" alt="Pandas"/>
-   <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" width="36" height="36" alt="Numpy"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="36" height="36" alt="PyTorch"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="36" height="36" alt="Tensorflow"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="54" height="54" alt="Pandas"/>
+   <img src="https://logosandtypes.com/wp-content/uploads/2024/02/numpy.svg" width="54" height="54" alt="Numpy"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="54" height="54" alt="PyTorch"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="54" height="54" alt="Tensorflow"/>
    
 </p>
 

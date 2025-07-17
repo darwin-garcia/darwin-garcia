@@ -10,7 +10,8 @@
   <a href="https://www.facebook.com/imdarwingarcia"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
   <a href="https://www.instagram.com/itsdarwingarcia"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="https://x.com/_DarwinGarcia_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/></a>
-  <a href="https://www.youtube.com/@Darwin-Garcia"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>    
+  <a href="https://www.youtube.com/@Darwin-Garcia"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="https://www.linkedin.com/in/darwingarc%C3%ADa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 </div>
 <!-- About Me Section -->
@@ -19,7 +20,6 @@
 <li> 💼 Data Scientist Trainee</li>
 <li> 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here</a>. You can see my projects in these uploaded repositories.</li>
 <li> 📸 I enjoy Photography, 📖 Reading and ✈ traveling </li>
-<li> ✔ How to reach me: <a href="https://www.linkedin.com/in/darwingarc%C3%ADa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
 </ul>
 
 - - -

@@ -20,7 +20,7 @@
 <h2 align="center"> 👨‍💻 About Me: </h2>
 <ul>
 <li> 💼 Data Scientist Trainee</li>
-<li> 🌐 Enter my <a href="https://www.darwin-garcia.co">Web Portfolio Here</a>. You can see my projects in these uploaded repositories.</li>
+<li> 🌐 Enter my <a href="https://dangmoz-web-porfolio.pages.dev">Web Portfolio Here</a>. You can see my projects in these uploaded repositories.</li>
 <li> 📸 I enjoy Photography, 📖 Reading and ✈ traveling </li>
 </ul>
 

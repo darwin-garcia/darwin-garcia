@@ -1,7 +1,7 @@
 # <h1 align="center">🙋‍♂️ ¡Hello! I'm Darwin Garcia </h1>
 <!-- First Section Pane -->
 <div id="header" align="center">
-<img width="1920" height="1080" alt="Gemini_Generated_Image_nal1z9nal1z9nal1" src="https://github.com/user-attachments/assets/1903c311-e81d-4353-afbb-0536d664d3a3" />
+  <img width="1920" height="1080" alt="Gemini_Generated_Image_nal1z9nal1z9nal1" src="https://github.com/user-attachments/assets/1903c311-e81d-4353-afbb-0536d664d3a3" />
 
   <img width="1920" height="1080" alt="Web Portfolio" src="https://github.com/user-attachments/assets/2c6df7fd-dbd3-42e9-8cc4-545e92476637" />
   <!-- <img src="https://raw.githubusercontent.com/darwin-garcia/Arch-Linux-Hyprland/refs/heads/main/Data%20Science%20Package%20in%20Arch%20Linux/20250715_103516.jpg" width+"500"> -->

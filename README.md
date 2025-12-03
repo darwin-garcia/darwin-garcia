@@ -43,4 +43,4 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="54" height="54" alt="Tensorflow"/>   
 </p>
 
-👨‍💻 ©MMXXIV. Darwin Garcia. 🇨🇴
+👨‍💻 ©MMXXVI. Darwin Garcia. 🇨🇴

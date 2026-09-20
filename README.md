@@ -1,7 +1,8 @@
+
 # <h1 align="center">🙋‍♂️ ¡Hello! I'm Darwin Garcia </h1>
 <!-- First Section Pane -->
 <div id="header" align="center">
-  <img width="1920" height="1080" alt="Web Portfolio" src="https://github.com/user-attachments/assets/2c6df7fd-dbd3-42e9-8cc4-545e92476637" />
+  <img width="2560" height="1440" alt="Web Portfolio" src="https://github.com/user-attachments/assets/a5fd445d-f4f2-4cad-aa9e-b76c87513d2e" />
   <!-- <img src="https://raw.githubusercontent.com/darwin-garcia/Arch-Linux-Hyprland/refs/heads/main/Data%20Science%20Package%20in%20Arch%20Linux/20250715_103516.jpg" width+"500"> -->
   <!--<img src="https://cdn-icons-png.flaticon.com/512/5408/5408783.png" width="150"  -->
   <h3 align="center">¡Welcome to my Github repository site!</h3>
@@ -22,7 +23,7 @@
 <!-- About Me Section -->
 <h2 align="center"> 👨‍💻 About Me: </h2>
 <ul>
-<li> 💼 Data Scientist Trainee</li>
+<li> 💼 Data Scientist</li>
 <li> 🌐 Enter my <a href="https://dangmoz-web-porfolio.pages.dev">Web Portfolio Here</a>. You can see my projects in these uploaded repositories.</li>
 <li> 📸 I enjoy Photography, 📖 Reading and ✈ traveling </li>
 </ul>
@@ -45,4 +46,4 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="54" height="54" alt="Tensorflow"/>   
 </p>
 
-👨‍💻 ©MMXXVI. Darwin Garcia. 🇨🇴
+👨‍💻 ©MMXXVII. Darwin Garcia. 🇨🇴
